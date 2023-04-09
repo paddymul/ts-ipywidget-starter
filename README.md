@@ -3,7 +3,7 @@
 This is the most barebones repo that I could cobble tobgether that does the following
 1. Builds an ipywidget
 2. Uses typescript code in that widget
-3. is NPM installable
+3. is pip installable
 4. Allows a widgert to use react
 
 This is built by stripping as much possible from Bloomberg's [ipydatagrid](https://github.com/bloomberg/ipydatagrid)
