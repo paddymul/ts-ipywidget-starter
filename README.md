@@ -29,3 +29,14 @@ rm dist/index.js dist/index.js.LICENSE.txt
 twine check dist/*
 python -m twine upload --repository testpypi dist/*
 ```
+
+
+## Related github issues
+
+https://github.com/jupyterlab/hatch-jupyter-builder/issues/112
+https://github.com/jupyter-widgets/widget-ts-cookiecutter/issues/131
+https://github.com/jupyter-widgets/widget-ts-cookiecutter/issues/133
+
+https://github.com/jupyter-widgets/ipywidgets/issues/3755
+https://github.com/jupyterlab/hatch-jupyter-builder/issues/113
+
